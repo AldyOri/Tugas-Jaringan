@@ -11,4 +11,8 @@ Berikut adalah tujuh lapisan dalam model OSI, dari lapisan terendah ke lapisan t
 4. Transport: Lapisan ini menyediakan mekanisme untuk pengiriman data yang andal dan pengaturan aliran data antara perangkat pengirim dan penerima.
 5. Session: Lapisan ini mengelola dan mengatur dialog (sesi) antara aplikasi di perangkat yang berkomunikasi.
 6. Presentation: Lapisan ini bertanggung jawab untuk mengelola format data, enkripsi, kompresi, dan konversi antarmuka antara protokol yang berbeda.
+<<<<<<< HEAD
 7. Application: Lapisan teratas ini adalah tempat di mana aplikasi jaringan berinteraksi dengan pengguna dan menyediakan layanan seperti email, browsing web, dan lainnya.
+=======
+7. Application: Lapisan teratas ini adalah tempat di mana aplikasi jaringan berinteraksi dengan pengguna dan menyediakan layanan seperti email, browsing web, dan lainnya.
+>>>>>>> af766265d96b1d2eb1f84a0d11bc94bb7764f623
