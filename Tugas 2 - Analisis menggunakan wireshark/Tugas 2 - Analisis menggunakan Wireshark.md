@@ -1,11 +1,11 @@
 - # __Analisis http.cap, telnet-cooked.cap, dan dns.cap pada Wireshark__
 ### Perlu diketahui bahwa pada wireshark terdapat beberapa informasi yaitu seperti:
-- ### No: yang bertujuan menampilkan urutan paket data yang direkam
-- ### Time: menampilkan waktu pada saat mengakses paket ke tujuan
-- ### Source: menampilkan alamat ip pengguna/pengakses
-- ### Destination: menampilkan alamat ip dari tujuan data
-- ### Protocol: menampilkan informasi protocol pada saat mengakses data tersebut
-- ### Info: menampilkan informasi yang ditampilkan pada proses capture data tersebut
+- #### No: yang bertujuan menampilkan urutan paket data yang direkam
+- #### Time: menampilkan waktu pada saat mengakses paket ke tujuan
+- #### Source: menampilkan alamat ip pengguna/pengakses
+- #### Destination: menampilkan alamat ip dari tujuan data
+- #### Protocol: menampilkan informasi protocol pada saat mengakses data tersebut
+- #### Info: menampilkan informasi yang ditampilkan pada proses capture data tersebut
 #
 ## 1. http.cap
 ![http.cap](https://github.com/AldyOri/Tugas-Jaringan/blob/main/Tugas%202%20-%20Analisis%20menggunakan%20wireshark/assets/http.png)
