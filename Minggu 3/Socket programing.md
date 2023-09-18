@@ -1,5 +1,5 @@
 # Socket Programming
-    Socket adalah istilah yang digunakan dalam dunia komputer dan jaringan untuk merujuk pada mekanisme komunikasi antara dua komputer atau perangkat yang berbeda melalui jaringan. Socket memungkinkan komputer atau perangkat untuk mengirim dan menerima data satu sama lain melalui jaringan, seperti internet atau jaringan lokal (LAN).
+<p>Socket adalah istilah yang digunakan dalam dunia komputer dan jaringan untuk merujuk pada mekanisme komunikasi antara dua komputer atau perangkat yang berbeda melalui jaringan. Socket memungkinkan komputer atau perangkat untuk mengirim dan menerima data satu sama lain melalui jaringan, seperti internet atau jaringan lokal (LAN).</p>
 
 ## Run Program
 1. Buka terminal dan navigasi ke folder file socket.
