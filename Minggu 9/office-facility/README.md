@@ -1,10 +1,3 @@
-    Nama            : Dukhaan Kamimpangan
-    NRP             : 3122600003
-    Kelas           : 2 D4 IT A
-    Mata Kuliah     : Konsep Jaringan
-    Dosen Pengampu  : Dr. Ferry Astika Saputra S.T., M.Sc
-    Pertemuan       : Minggu 9
-
 ## OFFICE FACILITY
 
 ### A. OFFICE FACILITY DENGAN PUBLIC IP : 12.0.0.0/8 & 6 SUBNET 
