@@ -85,21 +85,21 @@
 ### IPv4 Route Table :
 
 <div align="center">
-<img src="./assets/routeTable1.png">
+<img src="./assets/routetable1.png">
 <p><strong>Gambar :</strong> IPv4 Route Table</p>
 </div>
 
 ### IPv6 Route Table :
 
 <div align="center">
-<img src="./assets/routeTable2.png">
+<img src="./assets/routetable2.png">
 <p><strong>Gambar :</strong> IPv6 Route Table</p>
 </div>
 
 ### RIP Interfaces Configuration :
 
 <div align="center">
-<img src="./assets/RIPInterface.png">
+<img src="./assets/ripInterface.png">
 <p><strong>Gambar :</strong> RIP Interface</p>
 </div>
 
