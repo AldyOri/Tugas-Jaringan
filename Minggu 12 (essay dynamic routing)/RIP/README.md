@@ -106,8 +106,8 @@
 ### RIP Networks Configuration :
 
 <div align="center">
-<img src="./assets/RIPNetwork.png">
-<p><strong>Gambar :</strong> RIP Interface</p>
+<img src="./assets/ripNetwork.png">
+<p><strong>Gambar :</strong> RIP Network</p>
 </div>
 
 ### Dynamic Route List :
