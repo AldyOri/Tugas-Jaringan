@@ -5,7 +5,7 @@ Untuk penugasan sebagai berikut :
 ### **1. Ping antar PC**
 
 <div align="center">
-<img src="./assets/ping.jpg">
+<img src="./assets/ping.png">
 <p><strong>Gambar :</strong> Command Prompt Kelompok 10</p>
 </div>
     
