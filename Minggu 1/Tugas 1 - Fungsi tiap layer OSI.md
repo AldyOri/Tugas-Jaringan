@@ -2,6 +2,8 @@ Nama : Muhamad Aldy Nugroho
 NRP : 3122600020
 Kelas : D4 IT A
 
+## Dosen Pengampu
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
 
 Berikut adalah tujuh lapisan dalam model OSI, dari lapisan terendah ke lapisan tertinggi:
 

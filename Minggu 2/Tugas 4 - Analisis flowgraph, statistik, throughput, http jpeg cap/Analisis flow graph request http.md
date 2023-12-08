@@ -1,3 +1,6 @@
+## Dosen Pengampu
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 ### Analisis flowgraph dari request HTTP dan statistik HTTP
 
 #### Flowgraph dari Request HTTP

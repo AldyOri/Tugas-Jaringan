@@ -1,3 +1,6 @@
+## Dosen Pengampu
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 # Socket Programming
 <p>Socket adalah istilah yang digunakan dalam dunia komputer dan jaringan untuk merujuk pada mekanisme komunikasi antara dua komputer atau perangkat yang berbeda melalui jaringan. Socket memungkinkan komputer atau perangkat untuk mengirim dan menerima data satu sama lain melalui jaringan, seperti internet atau jaringan lokal (LAN).</p>
 

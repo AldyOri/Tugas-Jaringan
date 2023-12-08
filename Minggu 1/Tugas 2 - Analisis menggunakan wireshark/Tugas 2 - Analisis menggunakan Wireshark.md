@@ -1,3 +1,6 @@
+## Dosen Pengampu
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 - # __Analisis http.cap, telnet-cooked.cap, dan dns.cap pada Wireshark__
 ### Perlu diketahui bahwa pada wireshark terdapat beberapa informasi yaitu seperti:
 - #### No: yang bertujuan menampilkan urutan paket data yang direkam

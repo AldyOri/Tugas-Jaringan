@@ -2,6 +2,9 @@ Nama : Muhamad Aldy Nugroho
 Kelas : D4 IT A
 NRP : 3122600020
 
+## Dosen Pengampu
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 1. Kenapa 1 port FTP (File Transfer Protocol) bisa menggunakan UDP/TCP
     Port FTP (File Transfer Protocol) umumnya menggunakan protokol TCP (Transmission Control Protocol) daripada UDP (User Datagram Protocol) karena sifat protokol FTP yang membutuhkan handshaking, kontrol akurasi, dan koneksi yang andal, yang lebih sesuai dengan karakteristik TCP.
 

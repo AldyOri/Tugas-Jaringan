@@ -1,3 +1,6 @@
+## Dosen Pengampu
+Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang diampu oleh Dr. Ferry Astika Saputra ST, M.Sc ([@ferryastika](https://github.com/ferryastika)).
+
 ## KONFIGURASI JARINGAN
 
 ### A. KONFIGURASI 1 ROUTER, 2 SWITCH & 4 PC
